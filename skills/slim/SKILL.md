@@ -1,7 +1,6 @@
 ---
 name: slim
 description: Cut a bloated document down to what a human actually needs to read. Use when the user invokes /slim.
-disable-model-invocation: true
 ---
 
 # Slim
