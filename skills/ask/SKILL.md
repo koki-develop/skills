@@ -1,7 +1,6 @@
 ---
 name: ask
 description: Question-only mode — investigate and explain without changing anything. Use when the user invokes /ask.
-disable-model-invocation: true
 ---
 
 # Ask Mode
